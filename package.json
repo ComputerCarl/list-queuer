@@ -1,5 +1,5 @@
 {
-  "name": "queuer",
+  "name": "list-queuer",
   "private":false,
   "version": "1.0.0",
   "description": "A FIFO queuer for JavaScript which returns a splice of an array of items.",
