@@ -1,0 +1,16 @@
+{
+  "name": "queuer",
+  "private":false,
+  "version": "1.0.0",
+  "description": "A FIFO queuer for JavaScript which returns a splice of an array of items.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
