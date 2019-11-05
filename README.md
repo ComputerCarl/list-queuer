@@ -58,3 +58,6 @@ queue.eventEmitter.on('splice', data => console.log(data));
     }, rand);
 }()); 
 ```
+
+# To Do
+[] ability to remove items
