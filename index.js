@@ -37,6 +37,7 @@ function Queuer(params) {
             itemCount: currentList.length,
             remainingCount: Math.max(queue.length, 0)
         });
+        manager();
     }
 
     this.addItems = addItems;
