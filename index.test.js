@@ -16,6 +16,7 @@ it('adds and clear queue', async done => {
         switch (resultCounter) {
             case 0:
                 expect(data.itemCount).toBe(50);
+                expect(data.remainingCount).toBe(11);
                 break;
             case 1:
                 expect(data.itemCount).toBe(11);
